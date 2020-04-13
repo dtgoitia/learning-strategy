@@ -32,7 +32,7 @@ Use Anki card to create, organise and study content.
 - [x] Document topics I want to learn: see `content.yml`.
 - [x] Create a repository to track the topics I want to learn.
 - [x] Investigate about techniques to use Anki. See [external resources](#external-resources).
-- [ ] Read all Anki features, to make the most of it.
+- [x] Read all Anki features, to make the most of it.
 - [ ] Start building your decks.
 
 ## External resources
