@@ -1,0 +1,19 @@
+topics:
+  - life_lessons
+  - languages:
+      English:
+        - grammar
+        - vocabulary
+      German:
+        - basic_sentences
+        - vocabulary
+        - grammar
+  - computer_science:
+    - algoritms
+    - js
+    - python
+    - linux
+    - vim
+  - career:
+    - domain_knowledge
+    - learned_lessons
